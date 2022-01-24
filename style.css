@@ -414,10 +414,9 @@ h2 {
   font-size: 20px;
   text-align: left;
 }
-.msg__form-img-wrap{
-  display: block;
-  max-width: 100%;
-}
+
+.msg__form-img{
+  position: absolute;
 .msg__submit{
   margin-top: 16px;
   background: red;
