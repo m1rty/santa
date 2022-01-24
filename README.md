@@ -1,3 +1,2 @@
 # santa
 
-by D. Sokov
